@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>Glakshmibhavani_Maven</groupId>
+  <artifactId>Glakshmibhavani_Maven</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>GLakshmiBhavani_Maven</name>
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.6.1</version>
+        <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+  <description>1. New Year&amp;#39;s gift. Identify the hierarchy of chocolates and other sweets. Create multiple objects of
+sweets. Collect children&amp;#39;s gift to define total weight. Sort the chocolates in a gift by one of the options.
+Find candies in the gift corresponding to a predetermined range of options.</description>
+</project>
